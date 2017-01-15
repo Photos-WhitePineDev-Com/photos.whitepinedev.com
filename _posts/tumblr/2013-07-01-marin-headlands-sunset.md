@@ -1,8 +1,0 @@
----
-layout: post
-title: marin headlands sunset
-date: '2013-07-01T22:43:57-07:00'
-tags: []
-tumblr_url: http://photos.whitepinedev.com/post/54408552620/marin-headlands-sunset
----
-Marin headlands sunset
